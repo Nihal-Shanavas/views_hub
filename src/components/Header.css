@@ -1,0 +1,207 @@
+
+body{
+    
+       background-color:#112336 !important;
+    
+}
+.navImg{
+    height: 50px;
+  }
+  .nav{
+     background-color:#ffffff !important;
+  }
+  .navhead{
+    color: black;
+    font-size: 30px !important;
+    margin-top: 5px;
+    
+  }
+  .span1{
+    color:#0b6d63;
+   font-family: 'Rubik Distressed', serif;; 
+   font-size: 40px;
+
+}
+  span2{
+    color:#000000;
+    font-family: 'Rubik Distressed', serif;;
+    font-size: 40px;
+}
+/* .email{
+    border: 2px solid #112336 !important;
+} */
+/* .message{
+    border:2px solid rgb(247, 0, 0) !important;
+} */
+.submit{
+    border: 2px solid black !important;
+}
+
+.face{
+    background-color: black !important;
+}
+  
+  
+  /* footer */
+  .footer{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    color: rgb(0, 0, 0) ;
+  }
+  .footerhead{
+    color: rgb(255, 255, 255);
+  }
+  i{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+  }
+  i:hover{
+    color: #112336;
+  }
+  .links{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  .links:hover{
+    color: #103d6d !important;
+  }
+  input,textarea{
+    width: 100%;
+    border: 2px solid black !important;
+  }
+  button{
+    border: 2px solid black;
+    background-color: transparent;
+    border-radius: 5px !important;
+    padding: 8px;
+  }
+  .span2{
+    font-size: 30px;
+    margin: 10px;
+  }
+  
+  /* landing page */
+
+  .div{
+    border: 2px solid rgb(197, 0, 0);
+    background-color: transparent;
+    height: 500px;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+  }
+  .landingimg{
+    height: 500px;
+    width: 100%;
+    border: none !important;
+  }
+  .bt3{
+    background-color:black !important;
+    box-shadow: 1px 1px 1px 1px black !important;
+    border: 2px solid #FC6A03 !important;
+    border-radius: 10px !important;
+    color: rgb(212, 0, 0) !important;
+  }
+  .para{
+    /* margin-top: 150px !important; */
+    font-size: 23px;
+  }
+  .btn1{
+    border: 2px solid rgb(182, 0, 0);
+    color: rgb(207, 0, 0);
+    margin: 20px;
+  
+  }
+  .footy1{
+    font-family: 'Bungee Inline', sans-serif;
+  }
+  .cate{
+    box-shadow: 1px 1px 1px 1px #B49A67 !important;
+    background-color: #B49A67 !important;
+    color: white !important;
+    font-family: 'Ultra', serif !important;
+    font-weight: lighter !important;
+  }
+  
+  /* card */
+  .cap{
+    font-family: 'Handlee', cursive;
+  font-weight: 900;
+  font-size: 18px;
+  }
+  .cardimg{
+    height:250px;
+    
+  }
+  .cardimg2{
+   /* border: 2px solid rgb(255, 0, 0) !important ; */
+   border-radius: 5px !important;
+  }
+ 
+  .cardimg3{
+    border-radius: 1px !important;
+
+  }
+
+  .card-image-wrapper {
+    
+    height: 200px !important;
+    overflow: hidden;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .card-image-wrapper img {
+    width: auto;
+    height: 100%;
+  }
+
+  .cardbody{
+    height: 130px !important;
+    background-color: #B49A67;
+    border-radius: 1px !important;
+
+  }
+  .trash{
+    height: 30px !important;
+    /* margin-top: 10px !important; */
+    background-color: #B49A67 !important;
+    box-shadow: 1px 1px 1px 1px #B49A67 !important;
+  }
+ 
+  /* Custom CSS */
+.custom-modal {
+  background-color: #B49A67;
+}
+
+.custom-modal-header {
+  background-color: #B49A67;
+  border: none;
+}
+
+.custom-modal-body {
+  background-color: #B49A67;
+}
+
+.custom-modal-footer {
+  background-color: #B49A67;
+  border: none;
+}
+.hi{
+  box-shadow: 1px 1px 1px 1px white !important;
+}
+.start{
+  font-family: 'Allerta Stencil', sans-serif;
+  color: #B49A67;
+}
+
+.thumb-cursor {
+  cursor: pointer;
+}
+.tb1{
+  background-color: #B49A67 !important;
+}
